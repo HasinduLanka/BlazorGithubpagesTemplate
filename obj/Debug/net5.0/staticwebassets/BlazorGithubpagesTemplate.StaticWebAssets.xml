@@ -1,0 +1,4 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="/" Path="/media/cc/Projects/CodeProjects/BlazorGithubpagesTemplate/BlazorGithubpagesTemplate/bin/Debug/net5.0/wwwroot/" />
+  <ContentRoot BasePath="/" Path="/media/cc/Projects/CodeProjects/BlazorGithubpagesTemplate/BlazorGithubpagesTemplate/obj/Debug/net5.0/scopedcss/bundle/" />
+</StaticWebAssets>
